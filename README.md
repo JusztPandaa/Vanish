@@ -1,5 +1,6 @@
 # Vanish
-A vanish plugin that allows you to go completely invisible
+A vanish plugin that allows you to go completely invisible 
+
 
 # Permissions
 - vanish.use
@@ -18,3 +19,4 @@ A vanish plugin that allows you to go completely invisible
 - ✅ A config
 - ❌ Allows player to teleport to spawn when leaving vanish
 - ❌ command blacklist
+
