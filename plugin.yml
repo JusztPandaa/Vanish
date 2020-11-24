@@ -1,0 +1,20 @@
+name: StealthPvPVanish
+main: Panda\Vanish\Vanish
+author: JusztPandaa
+description: "StealthPvP Vanish plugin"
+api: [3.0.0]
+version: 2.0
+
+commands:
+  vanish:
+    description: "Go into Vanish"
+    permission: vanish.use
+  v:
+    description: "Go into Vanish"
+    permission: vanish.use
+  unvanish:
+    description: "Come out of Vanish"
+    permission: vanish.use
+  unv:
+    description: "Come out of Vanish"
+    permission: vanish.use
